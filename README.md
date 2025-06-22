@@ -1,4 +1,4 @@
-# Github-topics-web-scraping-
+# Using-Web-Scraping-to-Reveal-Key-Insights-from-GitHub-Topics
 ![archi web scraping](https://github.com/user-attachments/assets/57d0f679-beea-4cdb-a502-3e4c8e9f9e09)
 
 Web scraping is a powerful technique for programmatically extracting and analyzing data from websites. It's commonly used for building datasets to support research, data analysis, or educational purposes. In this project, we’ll build a web scraper from scratch using Python and its ecosystem of libraries.
