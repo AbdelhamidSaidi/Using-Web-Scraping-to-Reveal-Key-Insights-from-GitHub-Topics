@@ -180,10 +180,4 @@ libgdx,libgdx,18300,https://github.com/libgdx/libgdx
 
 ---
 
-## 📘 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and share it as needed.
-
----
-
 ⭐ **If you find this project helpful, feel free to give it a star!**
